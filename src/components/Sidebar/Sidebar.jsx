@@ -3,7 +3,7 @@ import { assets } from "../../assets/assets";
 import { useState } from "react";
 const Sidebar = () => {
   /*States*/
-  const [extended, setExtended] = useState(false);
+  const [extended, setExtended] = useState(true);
   /*End of States*/
 
   /*Handler*/
